@@ -64,3 +64,15 @@ pytest -v
 - `tests/` automated tests
 - `docs/` architecture notes
 - `reports/` project report
+
+- ## 📸 Screenshots
+
+### Intrusion Detection Results
+
+![Detection Results](screenshots/detection-results.png)
+
+### Incident Response Workflow
+
+![Incident Response Workflow](screenshots/incident-response-workflow.png)
+
+
