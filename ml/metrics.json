@@ -1,0 +1,30 @@
+{
+  "accuracy": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "confusion_matrix": [
+    [
+      886,
+      0
+    ],
+    [
+      0,
+      364
+    ]
+  ],
+  "test_records": 1250,
+  "features": [
+    "source_port",
+    "destination_port",
+    "packet_count",
+    "byte_count",
+    "duration_seconds",
+    "connection_count",
+    "failed_connection_count",
+    "syn_count",
+    "rst_count",
+    "average_packet_size"
+  ],
+  "model": "RandomForestClassifier"
+}
